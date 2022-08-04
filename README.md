@@ -10,8 +10,8 @@ There are 41,380 employees who will be retiring within the near future.
 
 There are 1,549 employees who are eligible to participate in the mentorship program.
 
-Most of the retiring employees hold Senior positions in the company. It will be even more important to ensure that the employees who will fill their positions are trained well to ensure the positions contiue to be run smoothly.
+Most of the retiring employees are in Senior positions in the company. It will be even more important to ensure that the employees who will fill their positions are trained well to ensure that the operations contiue to  run smoothly.
 
 # Summary:
 
-As the silver tsunami begins to make an impact, 42,929 roles will need to be filled in the current or near future. Currently there are 1,549 retirement-ready employees in the _departments to mentor the next generation of Pewlett Hackard employees. As there are 41,380 who are eligible for retirement now. Between these two groups there is a possiblity that there will be enough employees to the next generation depending on how many would be willing to do so. If there are some that are eligible to retire now willing to come and mentor on a part-time basis, possibly mentor more than one employee at once than this could help lessen the need for concern.
+As the silver tsunami begins to make an impact, 42,929 roles will need to be filled in the current or near future. Currently there are 1,549 retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees. As there are 41,380 who are eligible for retirement now, between these two groups there is a strong possiblity that there will be enough employees to mentor the next generation provided that they are willing to do so. If there are some that are eligible to retire now and willing to come back to mentor on a part-time basis, that could help releive some of the pressure from the company.
