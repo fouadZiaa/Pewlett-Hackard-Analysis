@@ -4,9 +4,11 @@ The purpose of this project was to determine the number of current employees per
 
 # Results:
 
-*There are currently 300,024 employees in the company.
-*There are 41,380 employees who will be retiring within the near future.
-*There are 1,549 employees who are eligible to participate in the mentorship program.*
+There are currently 300,024 employees in the company.
+
+There are 41,380 employees who will be retiring within the near future.
+
+There are 1,549 employees who are eligible to participate in the mentorship program.
 
 Most of the retiring employees hold Senior positions in the company. It will be even more important to ensure that the employees who will fill their positions are trained well to ensure the positions contiue to be run smoothly.
 
